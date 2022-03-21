@@ -5,19 +5,19 @@
 
 
   <h3 align="justify">Objetivo</h3>
-<p align="justify">Pensando fora da caixa com modelos de caixas e flexbox.
+<p align="justify" >Pensando fora da caixa com modelos de caixas e flexbox.
 O objetivo é criar uma página web que apresente a sua cidade. Para isso, utilize de todos
 os conhecimentos de HTML e CSS obtidos até aqui!</p>
  <h2 align="justify"> Temas avaliados</h2> 
- <ol align="justify">
-<li>●Semântica do código Front End</li>
+ <ol align="justify" style="disc">
+<li>● Semântica do código Front End</li>
 <li>● Tags HTML</li>
 <li>● Seletores CSS</li>
 <li>● Flexbox</li>
 <li>● Design Adaptativo.</li>
 <ol>
 
-S layout esperado para a página web foi fornecido através de documentação externa
+O layout esperado para a página web foi fornecido através de documentação externa
 
  <ul align="justify">
 <li>1. Seu site deve ser responsivo em duas resoluções: 1280px e 425px</li>
