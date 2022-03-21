@@ -20,7 +20,7 @@ Temas avaliados
 ● Design Adaptativo.
 
 
-Confira o layout esperado para a sua página web no fornecido através de documentação externa 
+S layout esperado para a  página web foi fornecido através de documentação externa 
 
 
  <ul align="justify">
