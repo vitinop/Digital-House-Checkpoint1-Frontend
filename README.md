@@ -1,27 +1,23 @@
-
 <h1 align="center">Digital-House-Chekpoint 1</h1>
-
-
 
   <h2 align="justify"> Módulo I 🎓 </h2> 
 <p align="justify"> Nesse repósitorio você encontrará a atividade do chepoint 01, do curso CTD da digital house atendendo os seguintes requisitos : </p>
- 
 
 
   <h3 align="justify">Objetivo</h3>
 <p align="justify">Pensando fora da caixa com modelos de caixas e flexbox.
 O objetivo é criar uma página web que apresente a sua cidade. Para isso, utilize de todos
 os conhecimentos de HTML e CSS obtidos até aqui!</p>
-Temas avaliados
+ <h2 align="justify"> Temas avaliados</h2> 
+ <ol align="justify">
 ● Semântica do código Front End
 ● Tags HTML
 ● Seletores CSS
 ● Flexbox
 ● Design Adaptativo.
+<ol>
 
-
-S layout esperado para a  página web foi fornecido através de documentação externa 
-
+S layout esperado para a página web foi fornecido através de documentação externa
 
  <ul align="justify">
 <li>1. Seu site deve ser responsivo em duas resoluções: 1280px e 425px</li>
@@ -40,7 +36,7 @@ sua cidade. Destaque em negrito os pontos mais importantes.</li>
 desktop e um card abaixo do outro na versão mobile), cada um com uma
 curiosidade sobre sua cidade.</li>
 <li>7. Insira um vídeo do youtube que fale da sua cidade. Pode ser algum festival ou
-comemoração. </li></li>
+comemoração. </li>
 <li>8. No footer, utilize algum site de ícones para conseguir uma imagem do Linkedin
 e outra do Github. Nesses ícones, faça o link com seu linkedin e github! </li>
 </ul>
