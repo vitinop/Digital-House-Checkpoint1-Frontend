@@ -10,11 +10,11 @@ O objetivo é criar uma página web que apresente a sua cidade. Para isso, utili
 os conhecimentos de HTML e CSS obtidos até aqui!</p>
  <h2 align="justify"> Temas avaliados</h2> 
  <ol align="justify">
-● Semântica do código Front End
-● Tags HTML
-● Seletores CSS
-● Flexbox
-● Design Adaptativo.
+<li>●Semântica do código Front End</li>
+<li>● Tags HTML</li>
+<li>● Seletores CSS</li>
+<li>● Flexbox</li>
+<li>● Design Adaptativo.</li>
 <ol>
 
 S layout esperado para a página web foi fornecido através de documentação externa
