@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/vitinop/Digital-House-Checkpoint1-Frontend/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<h1 align="center">Digital-House-Chekpoint 1</h1>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  <h2 align="justify"> Módulo I 🎓 </h2> 
+<p align="justify"> Nesse repósitorio você encontrará a atividade do chepoint 01, do curso CTD da digital house atendendo os seguintes requisitos : </p>
+ 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+  <h3 align="justify">Objetivo</h3>
+<p align="justify">Pensando fora da caixa com modelos de caixas e flexbox.
+O objetivo é criar uma página web que apresente a sua cidade. Para isso, utilize de todos
+os conhecimentos de HTML e CSS obtidos até aqui!</p>
+Temas avaliados
+● Semântica do código Front End
+● Tags HTML
+● Seletores CSS
+● Flexbox
+● Design Adaptativo.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Confira o layout esperado para a sua página web no fornecido através de documentação externa 
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vitinop/Digital-House-Checkpoint1-Frontend/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ <ul align="justify">
+<li>1. Seu site deve ser responsivo em duas resoluções: 1280px e 425px</li>
+<li>2. Selecione uma imagem de background da sua cidade e coloque como imagem
+de fundo do seu body.</li>
+<li>3. Escolha ao menos duas fontes para serem utilizadas no seu site. Use o Google
+Fonts.</li>
+<li>4. Faça um Header bem bacana com uma cor da sua escolha. Esse header precisa
+ter de 10 a 20 px de padding vertical. Dentro dele estará um título com o nome
+da sua cidade alinhado à margem esquerda e um nav que linka as seções do
+seu site alinhado à margem direita.</li>
+<li>5. No seu main, coloque um banner com uma imagem de fundo relacionada a sua
+cidade. Dentro desse mesmo banner, insira um pequeno parágrafo falando da
+sua cidade. Destaque em negrito os pontos mais importantes.</li>
+<li>6. Abaixo do banner escreva o título: “Curiosidades” e faça três cards (versão
+desktop e um card abaixo do outro na versão mobile), cada um com uma
+curiosidade sobre sua cidade.</li>
+<li>7. Insira um vídeo do youtube que fale da sua cidade. Pode ser algum festival ou
+comemoração. </li></li>
+<li>8. No footer, utilize algum site de ícones para conseguir uma imagem do Linkedin
+e outra do Github. Nesses ícones, faça o link com seu linkedin e github! </li>
+</ul>
+<img src="https://media3.giphy.com/media/rxCetmGLLM9scLofmG/giphy.gif?cid=790b7611ef48f44335cfb9d84c712163b43c61c30a109f9e&rid=giphy.gif&ct=s" alt="digitalHouse.gif"  align="center"/>
